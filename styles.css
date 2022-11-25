@@ -49,3 +49,34 @@ p {
 .project-desciption {
   padding: 120px 60px;
 }
+.about-section content {
+  margin: 30px;
+}
+.about-section {
+  padding: 160px 20px;
+}
+
+.about h1 {
+  font-size: 64px;
+  font: Poppins;
+}
+.about h2 {
+  font-size: 18px;
+  font: Poppins;
+}
+.about p {
+  color: #272142b2;
+}
+@media (max-width: 900px) {
+  h1 {
+    font-size: 44px;
+    line-height: 2;
+  }
+
+  h2 {
+    font-size: 44px;
+  }
+
+  .hero {
+    padding: 80px 20px;
+  }
